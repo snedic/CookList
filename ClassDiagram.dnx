@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_qUrhwLm9EeGQSYHAyE-8Ig" type="Class" name="classdiagram.dnx">
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_9Uh28Lm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9UjsILm9EeGQSYHAyE-8Ig" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9UjsIbm9EeGQSYHAyE-8Ig" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UkTMLm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UkTMbm9EeGQSYHAyE-8Ig" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UkTMrm9EeGQSYHAyE-8Ig" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UlhULm9EeGQSYHAyE-8Ig" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UlhUbm9EeGQSYHAyE-8Ig" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UmIYLm9EeGQSYHAyE-8Ig" visible="false" type="SignalCompartment"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9UmvcLm9EeGQSYHAyE-8Ig" visible="false" type="StructureCompartment"/>
+    <element xmi:type="uml:Class" href="Blank%20Package.emx#_1T0aYLlxEeG8eI6jgbTnnA?CookListModel/CookBook?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Uh28bm9EeGQSYHAyE-8Ig" y="3487"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_9UnWgLm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9UnWgrm9EeGQSYHAyE-8Ig" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9UnWg7m9EeGQSYHAyE-8Ig" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Un9kLm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Un9kbm9EeGQSYHAyE-8Ig" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Un9krm9EeGQSYHAyE-8Ig" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UokoLm9EeGQSYHAyE-8Ig" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9Uokobm9EeGQSYHAyE-8Ig" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9Uokorm9EeGQSYHAyE-8Ig" visible="false" type="SignalCompartment"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9Uoko7m9EeGQSYHAyE-8Ig" visible="false" type="StructureCompartment"/>
+    <element xmi:type="uml:Class" href="Blank%20Package.emx#_zUjRULlxEeG8eI6jgbTnnA?CookListModel/Ingredient?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9UnWgbm9EeGQSYHAyE-8Ig" y="10461"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_9UpLsLm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9UpywLm9EeGQSYHAyE-8Ig" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9Upywbm9EeGQSYHAyE-8Ig" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Upywrm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UqZ0Lm9EeGQSYHAyE-8Ig" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UrA4Lm9EeGQSYHAyE-8Ig" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UrA4bm9EeGQSYHAyE-8Ig" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9Urn8Lm9EeGQSYHAyE-8Ig" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9Urn8bm9EeGQSYHAyE-8Ig" visible="false" type="SignalCompartment"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9Urn8rm9EeGQSYHAyE-8Ig" visible="false" type="StructureCompartment"/>
+    <element xmi:type="uml:Class" href="Blank%20Package.emx#_xqVyQLlxEeG8eI6jgbTnnA?CookListModel/Recipe?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9UpLsbm9EeGQSYHAyE-8Ig" x="317" y="6974"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_9UsPALm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9Us2ELm9EeGQSYHAyE-8Ig" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9Us2Ebm9EeGQSYHAyE-8Ig" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Us2Erm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Us2E7m9EeGQSYHAyE-8Ig" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UtdILm9EeGQSYHAyE-8Ig" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UtdIbm9EeGQSYHAyE-8Ig" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UtdIrm9EeGQSYHAyE-8Ig" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UtdI7m9EeGQSYHAyE-8Ig" visible="false" type="SignalCompartment"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9UuEMLm9EeGQSYHAyE-8Ig" visible="false" type="StructureCompartment"/>
+    <element xmi:type="uml:Class" href="Blank%20Package.emx#_vyk_YLlxEeG8eI6jgbTnnA?CookListModel/ShoppingList?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9UsPAbm9EeGQSYHAyE-8Ig" x="4755" y="3487"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_9UuEMbm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9UurQLm9EeGQSYHAyE-8Ig" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9UurQbm9EeGQSYHAyE-8Ig" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UvSULm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Uv5YLm9EeGQSYHAyE-8Ig" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Uv5Ybm9EeGQSYHAyE-8Ig" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9Uv5Yrm9EeGQSYHAyE-8Ig" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9Uv5Y7m9EeGQSYHAyE-8Ig" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UwgcLm9EeGQSYHAyE-8Ig" visible="false" type="SignalCompartment"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9Uwgcbm9EeGQSYHAyE-8Ig" visible="false" type="StructureCompartment"/>
+    <element xmi:type="uml:Class" href="Blank%20Package.emx#_owJecLlxEeG8eI6jgbTnnA?CookListModel/ShoppingListItem?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9UuEMrm9EeGQSYHAyE-8Ig" x="4438" y="6974"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_9UxHgLm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9UxukLm9EeGQSYHAyE-8Ig" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9Uxukbm9EeGQSYHAyE-8Ig" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Uxukrm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9Uxuk7m9EeGQSYHAyE-8Ig" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_9UxulLm9EeGQSYHAyE-8Ig" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UyVoLm9EeGQSYHAyE-8Ig" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UyVobm9EeGQSYHAyE-8Ig" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_9UyVorm9EeGQSYHAyE-8Ig" visible="false" type="SignalCompartment"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9Uy8sLm9EeGQSYHAyE-8Ig" visible="false" type="StructureCompartment"/>
+    <element xmi:type="uml:Class" href="Blank%20Package.emx#_mHW3QLlxEeG8eI6jgbTnnA?CookListModel/User?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9UxHgbm9EeGQSYHAyE-8Ig" x="2853"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_9VA_ILm9EeGQSYHAyE-8Ig" source="_9UpLsLm9EeGQSYHAyE-8Ig" target="_9UnWgLm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VBmMLm9EeGQSYHAyE-8Ig" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VBmMrm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VBmM7m9EeGQSYHAyE-8Ig" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9VBmMbm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VCNQLm9EeGQSYHAyE-8Ig" type="ToMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VCNQrm9EeGQSYHAyE-8Ig" type="ToMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4R7VMrm8EeGQSYHAyE-8Ig?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VCNQbm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VCNQ7m9EeGQSYHAyE-8Ig" type="ToRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VC0ULm9EeGQSYHAyE-8Ig" type="ToRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4R7VMrm8EeGQSYHAyE-8Ig?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VCNRLm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VC0Ubm9EeGQSYHAyE-8Ig" visible="false" type="FromMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VC0U7m9EeGQSYHAyE-8Ig" type="FromMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4Rf3YLm8EeGQSYHAyE-8Ig?CookListModel/Recipe/ingredient?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VC0Urm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VDbYLm9EeGQSYHAyE-8Ig" visible="false" type="FromRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VDbYrm9EeGQSYHAyE-8Ig" type="FromRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4Rf3YLm8EeGQSYHAyE-8Ig?CookListModel/Recipe/ingredient?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VDbYbm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VDbY7m9EeGQSYHAyE-8Ig" type="ToQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VECcLm9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4R7VMrm8EeGQSYHAyE-8Ig?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VDbZLm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VECcbm9EeGQSYHAyE-8Ig" type="FromQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VECc7m9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4Rf3YLm8EeGQSYHAyE-8Ig?CookListModel/Recipe/ingredient?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VECcrm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VECdLm9EeGQSYHAyE-8Ig" type="ToConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VEpgLm9EeGQSYHAyE-8Ig" type="ToConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4R7VMrm8EeGQSYHAyE-8Ig?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VECdbm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VEpgbm9EeGQSYHAyE-8Ig" type="FromConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VEpg7m9EeGQSYHAyE-8Ig" type="FromConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_4Rf3YLm8EeGQSYHAyE-8Ig?CookListModel/Recipe/ingredient?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VEpgrm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <element xmi:type="uml:Association" href="Blank%20Package.emx#_4RKgMLm8EeGQSYHAyE-8Ig?CookListModel/%3CAssociation%3E?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9VA_Ibm9EeGQSYHAyE-8Ig" points="[40, 97, 40, -2221]$[40, 2318, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aNBILm9EeGQSYHAyE-8Ig" id="(0.5,0.923469387755102)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aNBIbm9EeGQSYHAyE-8Ig" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_9VFQkLm9EeGQSYHAyE-8Ig" source="_9UxHgLm9EeGQSYHAyE-8Ig" target="_9UsPALm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VF3oLm9EeGQSYHAyE-8Ig" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VF3orm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VF3o7m9EeGQSYHAyE-8Ig" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9VF3obm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VGesLm9EeGQSYHAyE-8Ig" type="ToMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VGesrm9EeGQSYHAyE-8Ig" type="ToMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBPGULlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VGesbm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VGes7m9EeGQSYHAyE-8Ig" type="ToRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VHFwLm9EeGQSYHAyE-8Ig" type="ToRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBPGULlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VGetLm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VHFwbm9EeGQSYHAyE-8Ig" visible="false" type="FromMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VHFw7m9EeGQSYHAyE-8Ig" type="FromMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBLb8LlzEeG8eI6jgbTnnA?CookListModel/User/shoppingList?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VHFwrm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VHs0Lm9EeGQSYHAyE-8Ig" visible="false" type="FromRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VHs0rm9EeGQSYHAyE-8Ig" type="FromRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBLb8LlzEeG8eI6jgbTnnA?CookListModel/User/shoppingList?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VHs0bm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VHs07m9EeGQSYHAyE-8Ig" type="ToQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VIT4Lm9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBPGULlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VHs1Lm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VIT4bm9EeGQSYHAyE-8Ig" type="FromQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VIT47m9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBLb8LlzEeG8eI6jgbTnnA?CookListModel/User/shoppingList?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VIT4rm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VIT5Lm9EeGQSYHAyE-8Ig" type="ToConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VI68Lm9EeGQSYHAyE-8Ig" type="ToConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBPGULlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VIT5bm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VI68bm9EeGQSYHAyE-8Ig" type="FromConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VI687m9EeGQSYHAyE-8Ig" type="FromConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_IBLb8LlzEeG8eI6jgbTnnA?CookListModel/User/shoppingList?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VI68rm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <element xmi:type="uml:Association" href="Blank%20Package.emx#_IBI_sLlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9VFQkbm9EeGQSYHAyE-8Ig" points="[53, 97, -2142, -2221]$[53, 731, -2142, -1587]$[2234, 731, 39, -1587]$[2234, 2318, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aQEcLm9EeGQSYHAyE-8Ig" id="(0.6670843519452948,0.923469387755102)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aQrgLm9EeGQSYHAyE-8Ig" id="(0.5,-3.3144850647701466E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_9VJiALm9EeGQSYHAyE-8Ig" source="_9UxHgLm9EeGQSYHAyE-8Ig" target="_9Uh28Lm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VKJELm9EeGQSYHAyE-8Ig" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VKJErm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VKJE7m9EeGQSYHAyE-8Ig" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9VKJEbm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VKJFLm9EeGQSYHAyE-8Ig" type="ToMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VKwILm9EeGQSYHAyE-8Ig" type="ToMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0niMLlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VKJFbm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VKwIbm9EeGQSYHAyE-8Ig" type="ToRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VKwI7m9EeGQSYHAyE-8Ig" type="ToRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0niMLlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VKwIrm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VLXMLm9EeGQSYHAyE-8Ig" visible="false" type="FromMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VLXMrm9EeGQSYHAyE-8Ig" type="FromMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0lF8LlzEeG8eI6jgbTnnA?CookListModel/User/cookBook?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VLXMbm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VLXM7m9EeGQSYHAyE-8Ig" visible="false" type="FromRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VL-QLm9EeGQSYHAyE-8Ig" type="FromRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0lF8LlzEeG8eI6jgbTnnA?CookListModel/User/cookBook?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VLXNLm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VL-Qbm9EeGQSYHAyE-8Ig" type="ToQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VL-Q7m9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0niMLlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VL-Qrm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VL-RLm9EeGQSYHAyE-8Ig" type="FromQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VMlULm9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0lF8LlzEeG8eI6jgbTnnA?CookListModel/User/cookBook?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VL-Rbm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VMlUbm9EeGQSYHAyE-8Ig" type="ToConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VMlU7m9EeGQSYHAyE-8Ig" type="ToConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0niMLlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VMlUrm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VNMYLm9EeGQSYHAyE-8Ig" type="FromConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VNMYrm9EeGQSYHAyE-8Ig" type="FromConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_G0lF8LlzEeG8eI6jgbTnnA?CookListModel/User/cookBook?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VNMYbm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <element xmi:type="uml:Association" href="Blank%20Package.emx#_G0iCoLlzEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9VJiAbm9EeGQSYHAyE-8Ig" points="[26, 97, 2221, -2221]$[26, 731, 2221, -1587]$[-2155, 731, 40, -1587]$[-2155, 2318, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aR5oLm9EeGQSYHAyE-8Ig" id="(0.3337509733000418,0.923469387755102)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aSgsLm9EeGQSYHAyE-8Ig" id="(0.5,-3.3144850647701466E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_9VNMY7m9EeGQSYHAyE-8Ig" source="_9UsPALm9EeGQSYHAyE-8Ig" target="_9UuEMbm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VNzcLm9EeGQSYHAyE-8Ig" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VNzcrm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VOagLm9EeGQSYHAyE-8Ig" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9VNzcbm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VOagbm9EeGQSYHAyE-8Ig" type="ToMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VOag7m9EeGQSYHAyE-8Ig" type="ToMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FR38LlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VOagrm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VPBkLm9EeGQSYHAyE-8Ig" type="ToRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VPBkrm9EeGQSYHAyE-8Ig" type="ToRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FR38LlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VPBkbm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VPBk7m9EeGQSYHAyE-8Ig" visible="false" type="FromMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VPBlbm9EeGQSYHAyE-8Ig" type="FromMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FPbsLlyEeG8eI6jgbTnnA?CookListModel/ShoppingList/shoppingListItem?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VPBlLm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VPooLm9EeGQSYHAyE-8Ig" visible="false" type="FromRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VPoorm9EeGQSYHAyE-8Ig" type="FromRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FPbsLlyEeG8eI6jgbTnnA?CookListModel/ShoppingList/shoppingListItem?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VPoobm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VPoo7m9EeGQSYHAyE-8Ig" type="ToQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VQPsLm9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FR38LlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VPopLm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VQPsbm9EeGQSYHAyE-8Ig" type="FromQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VQPs7m9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FPbsLlyEeG8eI6jgbTnnA?CookListModel/ShoppingList/shoppingListItem?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VQPsrm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VQPtLm9EeGQSYHAyE-8Ig" type="ToConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VQ2wLm9EeGQSYHAyE-8Ig" type="ToConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FR38LlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VQPtbm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VQ2wbm9EeGQSYHAyE-8Ig" type="FromConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VRd0Lm9EeGQSYHAyE-8Ig" type="FromConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#__FPbsLlyEeG8eI6jgbTnnA?CookListModel/ShoppingList/shoppingListItem?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VQ2wrm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <element xmi:type="uml:Association" href="Blank%20Package.emx#__FNmgLlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9VNMZLm9EeGQSYHAyE-8Ig" points="[39, 97, 39, -2221]$[39, 2318, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aOPQLm9EeGQSYHAyE-8Ig" id="(0.5,0.923469387755102)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aO2ULm9EeGQSYHAyE-8Ig" id="(0.5,-6.628970129540293E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_9VRd0bm9EeGQSYHAyE-8Ig" source="_9Uh28Lm9EeGQSYHAyE-8Ig" target="_9UpLsLm9EeGQSYHAyE-8Ig" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VSE4Lm9EeGQSYHAyE-8Ig" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VSE4rm9EeGQSYHAyE-8Ig" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VSE47m9EeGQSYHAyE-8Ig" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9VSE4bm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VSr8Lm9EeGQSYHAyE-8Ig" type="ToMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VSr8rm9EeGQSYHAyE-8Ig" type="ToMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fiXcLlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VSr8bm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VSr87m9EeGQSYHAyE-8Ig" type="ToRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VTTALm9EeGQSYHAyE-8Ig" type="ToRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fiXcLlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VSr9Lm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VTTAbm9EeGQSYHAyE-8Ig" visible="false" type="FromMultiplicityLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VTTA7m9EeGQSYHAyE-8Ig" type="FromMultiplicity"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fNnULlyEeG8eI6jgbTnnA?CookListModel/CookBook/recipe?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VTTArm9EeGQSYHAyE-8Ig" y="396"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VTTBLm9EeGQSYHAyE-8Ig" visible="false" type="FromRoleLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_9VT6Ebm9EeGQSYHAyE-8Ig" type="FromRole"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fNnULlyEeG8eI6jgbTnnA?CookListModel/CookBook/recipe?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VT6ELm9EeGQSYHAyE-8Ig" y="-397"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VT6Erm9EeGQSYHAyE-8Ig" type="ToQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VUhILm9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fiXcLlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VT6E7m9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VUhIbm9EeGQSYHAyE-8Ig" type="FromQualifierLabel">
+      <children xmi:type="notation:SemanticListCompartment" xmi:id="_9VUhI7m9EeGQSYHAyE-8Ig" type="QualifierCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fNnULlyEeG8eI6jgbTnnA?CookListModel/CookBook/recipe?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VUhIrm9EeGQSYHAyE-8Ig" y="-186"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VVIMLm9EeGQSYHAyE-8Ig" type="ToConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VVIMrm9EeGQSYHAyE-8Ig" type="ToConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fiXcLlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E/%3CProperty%3E?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VVIMbm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9VVIM7m9EeGQSYHAyE-8Ig" type="FromConstraintLabel">
+      <children xmi:type="notation:ListCompartment" xmi:id="_9VVINbm9EeGQSYHAyE-8Ig" type="FromConstraintCompartment"/>
+      <element xmi:type="uml:Property" href="Blank%20Package.emx#_5fNnULlyEeG8eI6jgbTnnA?CookListModel/CookBook/recipe?"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9VVINLm9EeGQSYHAyE-8Ig" y="1058"/>
+    </children>
+    <element xmi:type="uml:Association" href="Blank%20Package.emx#_5fAL8LlyEeG8eI6jgbTnnA?CookListModel/%3CAssociation%3E?"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9VRd0rm9EeGQSYHAyE-8Ig" points="[40, 97, 40, -2221]$[40, 2318, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aJWwLm9EeGQSYHAyE-8Ig" id="(0.5,0.923469387755102)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9aJ90Lm9EeGQSYHAyE-8Ig" id="(0.5,-6.628970129540293E-16)"/>
+  </edges>
+</umlnotation:UMLDiagram>

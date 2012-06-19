@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_kHp0QLm8EeGQSYHAyE-8Ig" name="CookListModel">
+  <eAnnotations xmi:id="_kHp0Qbm8EeGQSYHAyE-8Ig" source="uml2.diagrams" references="_kHp0Qrm8EeGQSYHAyE-8Ig">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_kHp0Qrm8EeGQSYHAyE-8Ig" type="Freeform" name="Main"/>
+  </eAnnotations>
+  <packageImport xmi:id="_kHp0Q7m8EeGQSYHAyE-8Ig">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_mHW3QLlxEeG8eI6jgbTnnA" name="User">
+    <ownedAttribute xmi:id="_G0lF8LlzEeG8eI6jgbTnnA" name="cookBook" visibility="private" type="_1T0aYLlxEeG8eI6jgbTnnA" association="_G0iCoLlzEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_G0mUEblzEeG8eI6jgbTnnA" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_G0mUELlzEeG8eI6jgbTnnA"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_IBLb8LlzEeG8eI6jgbTnnA" name="shoppingList" visibility="private" type="_vyk_YLlxEeG8eI6jgbTnnA" association="_IBI_sLlzEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IBNRILlzEeG8eI6jgbTnnA" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBMqELlzEeG8eI6jgbTnnA"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_owJecLlxEeG8eI6jgbTnnA" name="ShoppingListItem"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_vyk_YLlxEeG8eI6jgbTnnA" name="ShoppingList">
+    <ownedAttribute xmi:id="__FPbsLlyEeG8eI6jgbTnnA" name="shoppingListItem" visibility="private" type="_owJecLlxEeG8eI6jgbTnnA" association="__FNmgLlyEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__FQp0LlyEeG8eI6jgbTnnA" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__FQCwLlyEeG8eI6jgbTnnA"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_xqVyQLlxEeG8eI6jgbTnnA" name="Recipe">
+    <ownedAttribute xmi:id="_4Rf3YLm8EeGQSYHAyE-8Ig" name="ingredient" visibility="private" type="_zUjRULlxEeG8eI6jgbTnnA" association="_4RKgMLm8EeGQSYHAyE-8Ig">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4R7VMbm8EeGQSYHAyE-8Ig" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4R7VMLm8EeGQSYHAyE-8Ig"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_zUjRULlxEeG8eI6jgbTnnA" name="Ingredient"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_1T0aYLlxEeG8eI6jgbTnnA" name="CookBook">
+    <ownedAttribute xmi:id="_5fNnULlyEeG8eI6jgbTnnA" name="recipe" visibility="private" type="_xqVyQLlxEeG8eI6jgbTnnA" association="_5fAL8LlyEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5fetELlyEeG8eI6jgbTnnA" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5feGALlyEeG8eI6jgbTnnA"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_5fAL8LlyEeG8eI6jgbTnnA" memberEnd="_5fNnULlyEeG8eI6jgbTnnA _5fiXcLlyEeG8eI6jgbTnnA">
+    <ownedEnd xmi:id="_5fiXcLlyEeG8eI6jgbTnnA" name="" visibility="private" type="_1T0aYLlxEeG8eI6jgbTnnA" association="_5fAL8LlyEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5fkMoLlyEeG8eI6jgbTnnA" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5fjlkLlyEeG8eI6jgbTnnA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="__FNmgLlyEeG8eI6jgbTnnA" memberEnd="__FPbsLlyEeG8eI6jgbTnnA __FR38LlyEeG8eI6jgbTnnA">
+    <ownedEnd xmi:id="__FR38LlyEeG8eI6jgbTnnA" name="" visibility="private" type="_vyk_YLlxEeG8eI6jgbTnnA" association="__FNmgLlyEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__FTGELlyEeG8eI6jgbTnnA" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__FSfALlyEeG8eI6jgbTnnA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBI_sLlzEeG8eI6jgbTnnA" memberEnd="_IBLb8LlzEeG8eI6jgbTnnA _IBPGULlzEeG8eI6jgbTnnA">
+    <ownedEnd xmi:id="_IBPGULlzEeG8eI6jgbTnnA" name="" visibility="private" type="_mHW3QLlxEeG8eI6jgbTnnA" association="_IBI_sLlzEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IBQUcblzEeG8eI6jgbTnnA" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBQUcLlzEeG8eI6jgbTnnA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_G0iCoLlzEeG8eI6jgbTnnA" memberEnd="_G0lF8LlzEeG8eI6jgbTnnA _G0niMLlzEeG8eI6jgbTnnA">
+    <ownedEnd xmi:id="_G0niMLlzEeG8eI6jgbTnnA" name="" visibility="private" type="_mHW3QLlxEeG8eI6jgbTnnA" association="_G0iCoLlzEeG8eI6jgbTnnA">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_G0owULlzEeG8eI6jgbTnnA" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_G0oJQLlzEeG8eI6jgbTnnA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_4RKgMLm8EeGQSYHAyE-8Ig" memberEnd="_4Rf3YLm8EeGQSYHAyE-8Ig _4R7VMrm8EeGQSYHAyE-8Ig">
+    <ownedEnd xmi:id="_4R7VMrm8EeGQSYHAyE-8Ig" name="" visibility="private" type="_xqVyQLlxEeG8eI6jgbTnnA" association="_4RKgMLm8EeGQSYHAyE-8Ig">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4R-Ygbm8EeGQSYHAyE-8Ig" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4R-YgLm8EeGQSYHAyE-8Ig"/>
+    </ownedEnd>
+  </packagedElement>
+  <profileApplication xmi:id="_kHp0RLm8EeGQSYHAyE-8Ig">
+    <eAnnotations xmi:id="_kHp0Rbm8EeGQSYHAyE-8Ig" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_kHp0Rrm8EeGQSYHAyE-8Ig">
+    <eAnnotations xmi:id="_kHp0R7m8EeGQSYHAyE-8Ig" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_kHp0SLm8EeGQSYHAyE-8Ig">
+    <eAnnotations xmi:id="_kHp0Sbm8EeGQSYHAyE-8Ig" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
